@@ -1,0 +1,1055 @@
+{
+  "manifestVersion": 1,
+  "contentVersion": "22b8be164e45",
+  "roadmap": {
+    "path": "roadmap.json",
+    "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
+    "size": 22061
+  },
+  "topics": {
+    "cs.computer_architecture": {
+      "level": 1,
+      "path": "level_01/computer_architecture.json",
+      "sha": "f5b51f0f0c6b9c5239893057d89ce81df8121c8a0dfdb40251ed0208f0bad2d1",
+      "size": 25098
+    },
+    "cs.operating_systems": {
+      "level": 1,
+      "path": "level_01/operating_systems.json",
+      "sha": "9f7b78c89a6291ba72555183fc326ce9de8aef9daf8d6d6ea7b51364ae7d1114",
+      "size": 25003
+    },
+    "cs.networking": {
+      "level": 1,
+      "path": "level_01/networking.json",
+      "sha": "902d238fcd30ff0b8fe6833e21e5174a982076c5ec0230c8b334786e1f227b0b",
+      "size": 21129
+    },
+    "cs.http_https": {
+      "level": 1,
+      "path": "level_01/http_https.json",
+      "sha": "20d080266c7978a0564496d2e130ebea855ce3467ae758570cc2a5cdc438c3f9",
+      "size": 21989
+    },
+    "cs.dns": {
+      "level": 1,
+      "path": "level_01/dns.json",
+      "sha": "06fb5e41e41118ab1fd10ebd773267b1a6f23e204c7f211671caefdafc25cd6d",
+      "size": 22107
+    },
+    "cs.tcp_udp": {
+      "level": 1,
+      "path": "level_01/tcp_udp.json",
+      "sha": "7d3fc091983f7e567298eb2e1cc4ef455a53995feb4de9978d3209743a26201f",
+      "size": 21304
+    },
+    "cs.ssl_tls": {
+      "level": 1,
+      "path": "level_01/ssl_tls.json",
+      "sha": "a9ab6ba9982776f74f75641fb9242f08e8b12265efc11149c3da1fc1547ad522",
+      "size": 22259
+    },
+    "cs.auth": {
+      "level": 1,
+      "path": "level_01/auth.json",
+      "sha": "0b318d90ca030835e96e627e6669d82b4bea92d360e0ba2eeaff2d08a95908b7",
+      "size": 20840
+    },
+    "cs.jwt_oauth": {
+      "level": 1,
+      "path": "level_01/jwt_oauth.json",
+      "sha": "cfd5d9420ddce6497dd70315782b1c261ec5dfd916aa975b06c0bf907ad534cc",
+      "size": 25869
+    },
+    "cs.encryption_hashing": {
+      "level": 1,
+      "path": "level_01/encryption_hashing.json",
+      "sha": "206cdb90848b697d34d2e70eafc1d5db0d830575fe7cfde64d072f0927260083",
+      "size": 22256
+    },
+    "cs.data_structures": {
+      "level": 1,
+      "path": "level_01/data_structures.json",
+      "sha": "e55585a7c62298f215912b0a0e4d6cf429dcd98feab794f9ef9c2ff7ee486004",
+      "size": 20519
+    },
+    "cs.algorithms": {
+      "level": 1,
+      "path": "level_01/algorithms.json",
+      "sha": "4751d5aed70b474bc96836627424575e007eb55044e631bafd942276f526fe69",
+      "size": 22231
+    },
+    "cs.complexity": {
+      "level": 1,
+      "path": "level_01/complexity.json",
+      "sha": "605f23b938e5c44010cff4eb2b0a4e50b7494389920ddc23f2414818f5b269d6",
+      "size": 19159
+    },
+    "cs.oop": {
+      "level": 1,
+      "path": "level_01/oop.json",
+      "sha": "efae0ef4e0cf318fe422af62782e4bee3e873721e8bd282e8fea20fc85f44543",
+      "size": 23101
+    },
+    "cs.solid": {
+      "level": 1,
+      "path": "level_01/solid.json",
+      "sha": "0357cf4a49be3df96c0db73dce86d568c8d6a6ba4bd1ac625a76df1634211674",
+      "size": 25010
+    },
+    "cs.design_patterns": {
+      "level": 1,
+      "path": "level_01/design_patterns.json",
+      "sha": "be5b9f6eaee82ccb99d88dd52a47be88489e2ec989b981d1766ab0e7766954a3",
+      "size": 23655
+    },
+    "cs.sdlc": {
+      "level": 1,
+      "path": "level_01/sdlc.json",
+      "sha": "a6b7eb3f6a014a742646ac62f196dfbb86eed6c6de4c6a207ab257c4bbbf9dd8",
+      "size": 19990
+    },
+    "cs.git": {
+      "level": 1,
+      "path": "level_01/git.json",
+      "sha": "e3b4b45ecd117cf178748dff1225ad52937e885fe559915701773ef5c3502e2c",
+      "size": 22309
+    },
+    "java.core": {
+      "level": 2,
+      "path": "level_02/core.json",
+      "sha": "c095ef667e25a752962960581e6b25e6fd7f8a519106e2c493589eac8dff89a3",
+      "size": 22044
+    },
+    "java.collections": {
+      "level": 2,
+      "path": "level_02/collections.json",
+      "sha": "8b5b51ef416481d152e8c373b1a8c3953af4ebbd2da3ae6a09c2e06cff1b09da",
+      "size": 22300
+    },
+    "java.exceptions": {
+      "level": 2,
+      "path": "level_02/exceptions.json",
+      "sha": "2e7f979d8f291e7d72b3325eb4a85f6d3c2d4697288384c003b5c3f3a1b79f7f",
+      "size": 23073
+    },
+    "java.multithreading": {
+      "level": 2,
+      "path": "level_02/multithreading.json",
+      "sha": "f2966b846f6ebdae8df5a6a1dcb31fa3d52a8a1246dbf5017c4dee47cdd8fd00",
+      "size": 23356
+    },
+    "java.jvm": {
+      "level": 2,
+      "path": "level_02/jvm.json",
+      "sha": "1f71d62dddddb3b850bfe082b5f7df4843865bcd2c2412d783412613bedcf1c4",
+      "size": 24542
+    },
+    "java.gc": {
+      "level": 2,
+      "path": "level_02/gc.json",
+      "sha": "729db79209d557675f36d3ac727b1594879ac72d83a9e5a1d4616bfb9ca23bc3",
+      "size": 22667
+    },
+    "java.streams": {
+      "level": 2,
+      "path": "level_02/streams.json",
+      "sha": "438947dcf7eeb4da8e5805f87bca753cd04fd847f9333eb9bfa87f50585805ad",
+      "size": 22714
+    },
+    "java.lambdas": {
+      "level": 2,
+      "path": "level_02/lambdas.json",
+      "sha": "2892b39d0658f50fb21f3088995c59f497192b88fa0cc2cfd23b829ad1c20dcb",
+      "size": 22926
+    },
+    "java.functional": {
+      "level": 2,
+      "path": "level_02/functional.json",
+      "sha": "48015bd3a60340accea67da5499fab96f33e8be58ff85130a073e09f02769ce8",
+      "size": 22957
+    },
+    "java.generics": {
+      "level": 2,
+      "path": "level_02/generics.json",
+      "sha": "e6d4be058b266edac71c1d38bc487ef335676ecc2b6b3639aec707f8a6fe3259",
+      "size": 21375
+    },
+    "java.reflection": {
+      "level": 2,
+      "path": "level_02/reflection.json",
+      "sha": "9c8e45c3624f70b4284b040aa77b90e75207d99ed0c3f372760050dc78d6d09e",
+      "size": 21836
+    },
+    "java.records": {
+      "level": 2,
+      "path": "level_02/records.json",
+      "sha": "f09a9467552f11ef5596f3e66c7577fe1fe9492e134dd77536aa304e4db4dc03",
+      "size": 17803
+    },
+    "java.sealed": {
+      "level": 2,
+      "path": "level_02/sealed.json",
+      "sha": "f20320bed0e6a86e7b1bf0c5d3f5242075e359b873009f3b8ccadd4e2b73b322",
+      "size": 20207
+    },
+    "java.virtual_threads": {
+      "level": 2,
+      "path": "level_02/virtual_threads.json",
+      "sha": "959a948ac238dba7f2735e9a134fca22ec43a57b2641b59bd667c59cb5076928",
+      "size": 22166
+    },
+    "java.pattern_matching": {
+      "level": 2,
+      "path": "level_02/pattern_matching.json",
+      "sha": "2fb4716ed1a313e341240d95eb504420786ab49fccc174bfe11610060229483d",
+      "size": 20292
+    },
+    "java.versions": {
+      "level": 2,
+      "path": "level_02/versions.json",
+      "sha": "7431ee5468239426df92f7fb864b812fa5a5794cb232042e3426ea9b83bee9be",
+      "size": 22016
+    },
+    "android.fundamentals": {
+      "level": 3,
+      "path": "level_03/fundamentals.json",
+      "sha": "cb4186f1601bd1e81027a05c28869bbc1355e0492326cf1587b7088b447f9833",
+      "size": 21206
+    },
+    "android.activity_lifecycle": {
+      "level": 3,
+      "path": "level_03/activity_lifecycle.json",
+      "sha": "ae0edbb3459dd0aee3181c1deef317ddcafc1ecce4bcdf4ec8a6ff7a1989ef17",
+      "size": 24217
+    },
+    "android.fragments": {
+      "level": 3,
+      "path": "level_03/fragments.json",
+      "sha": "b97db50aa6b6bf06938a08891e1aedbf881a5117911ff49bc9977e32be873566",
+      "size": 23403
+    },
+    "android.intents": {
+      "level": 3,
+      "path": "level_03/intents.json",
+      "sha": "dfa292651e090d3dc953a64cf50fa32ae2271bcdacc041b2eb6e8b9dc6f5d8b1",
+      "size": 23648
+    },
+    "android.services": {
+      "level": 3,
+      "path": "level_03/services.json",
+      "sha": "5f11c80363438cb20aa8f7d6cc4abcf9fe626410caacc7dcd28c00e1a280eece",
+      "size": 16566
+    },
+    "android.broadcast_receivers": {
+      "level": 3,
+      "path": "level_03/broadcast_receivers.json",
+      "sha": "a6386ab2ab42deab16ada887dcea42aa33a202616ae2c799a179c724c22e36dd",
+      "size": 16255
+    },
+    "android.content_providers": {
+      "level": 3,
+      "path": "level_03/content_providers.json",
+      "sha": "e2424b7bcb08917c061e2147e01edc51b1a19942a27079d4fe89293cb0d81a56",
+      "size": 18300
+    },
+    "android.jetpack": {
+      "level": 3,
+      "path": "level_03/jetpack.json",
+      "sha": "a09ef8b717205900a06c9bea2605c51b354cc549c0b423eb07578d74e95c57fb",
+      "size": 23477
+    },
+    "android.workmanager": {
+      "level": 3,
+      "path": "level_03/workmanager.json",
+      "sha": "f767261909e3a9ac69a02710f29d99f90c36c02ff763d246d548fb19719a9ff5",
+      "size": 18695
+    },
+    "android.room": {
+      "level": 3,
+      "path": "level_03/room.json",
+      "sha": "fa783a5cecd42684b3b0078a7af2e3f38e83608d007bb65439d46ec46febef64",
+      "size": 22503
+    },
+    "android.hilt": {
+      "level": 3,
+      "path": "level_03/hilt.json",
+      "sha": "4c71b56fc3ba95ed0aa70161b6f0ab5cb5907fac8bfcb01f1a1f873827b36916",
+      "size": 22365
+    },
+    "android.coroutines": {
+      "level": 3,
+      "path": "level_03/coroutines.json",
+      "sha": "9cc47c6095d90962fcbf3d2ce45a5426b09bd538b7a8b3fc6272b78f87d63a4f",
+      "size": 24607
+    },
+    "android.kotlin": {
+      "level": 3,
+      "path": "level_03/kotlin.json",
+      "sha": "28783668809252307b3138d13c9808468e456625141b2603be897c66c74ff90b",
+      "size": 20040
+    },
+    "android.performance": {
+      "level": 3,
+      "path": "level_03/performance.json",
+      "sha": "5498008c79dfcd86ad1ecf14a096a1bcf9b7ba7c17d6c9f37591bd6741a1067e",
+      "size": 22079
+    },
+    "flutter.dart": {
+      "level": 4,
+      "path": "level_04/dart.json",
+      "sha": "466a621979ff0d87690fc784041a5e7563c658588cf3d26987bef21da266d64a",
+      "size": 3852
+    },
+    "flutter.widgets": {
+      "level": 4,
+      "path": "level_04/widgets.json",
+      "sha": "aff49c668b1585a81d191aa533962f981980aace2c6ce136704dd6b5f61bc834",
+      "size": 3796
+    },
+    "flutter.widget_lifecycle": {
+      "level": 4,
+      "path": "level_04/widget_lifecycle.json",
+      "sha": "662d3e1c123c0de2b4540d3046e282db12691a42442116f7ae1a48da5391f6e1",
+      "size": 3514
+    },
+    "flutter.buildcontext": {
+      "level": 4,
+      "path": "level_04/buildcontext.json",
+      "sha": "cfb46fcf1f03c384e3e26d728c0e979bb9fe4ee7e6a2e2926eca990b77f8905a",
+      "size": 3633
+    },
+    "flutter.widget_tree": {
+      "level": 4,
+      "path": "level_04/widget_tree.json",
+      "sha": "c11f8f4e34f7024d7496d954e2bf626bca0f7ae2813939ab9bd2da932a9fd7d1",
+      "size": 3285
+    },
+    "flutter.element_tree": {
+      "level": 4,
+      "path": "level_04/element_tree.json",
+      "sha": "1e3fe7f249351be70e2635759e3236679a20258bdf190c7e2a24d99f6c7d27f5",
+      "size": 3814
+    },
+    "flutter.render_tree": {
+      "level": 4,
+      "path": "level_04/render_tree.json",
+      "sha": "831326c90e8386f1e01ad432583d56e4a9e9d043e28fb03d8fa01c3ccd066295",
+      "size": 3577
+    },
+    "flutter.rendering_pipeline": {
+      "level": 4,
+      "path": "level_04/rendering_pipeline.json",
+      "sha": "1b603ace5f7533c6c9a6669d2556921700f8831dcadd5ea7bedc352c9da770c9",
+      "size": 3609
+    },
+    "flutter.navigation": {
+      "level": 4,
+      "path": "level_04/navigation.json",
+      "sha": "d6c0f849c054c718c8846043b57d08c9b740a888c080bf25f58df566b8aa1a19",
+      "size": 3490
+    },
+    "flutter.forms": {
+      "level": 4,
+      "path": "level_04/forms.json",
+      "sha": "8074ee4cced8139c4a1c57edfe274fb31630fd12b25387e3bea1f71892091489",
+      "size": 3086
+    },
+    "flutter.state": {
+      "level": 4,
+      "path": "level_04/state.json",
+      "sha": "99aaa2179426492b07641b33201ecb9b1d22ed9580cee795b67747f44c1b6059",
+      "size": 3666
+    },
+    "flutter.animations": {
+      "level": 4,
+      "path": "level_04/animations.json",
+      "sha": "ef460f506022812a5f50c87b35fca0226971ee6ed30738530da09e762264fc14",
+      "size": 3640
+    },
+    "flutter.slivers": {
+      "level": 4,
+      "path": "level_04/slivers.json",
+      "sha": "3eb78b24d9510fd5cceb08747a16308610acaca54f55f7efff532724f6a6cbc6",
+      "size": 3511
+    },
+    "flutter.custompainter": {
+      "level": 4,
+      "path": "level_04/custompainter.json",
+      "sha": "c1c0e79e237037523192ee10478048bca6dbe0321bc855e318d1d675de43f42d",
+      "size": 3247
+    },
+    "flutter.platform_channels": {
+      "level": 4,
+      "path": "level_04/platform_channels.json",
+      "sha": "fc2b3f67bfd217b5a2dfd659f07aeef893ef92ed2fd01b2cfec8adb49fb2c041",
+      "size": 3735
+    },
+    "flutter.engine": {
+      "level": 4,
+      "path": "level_04/engine.json",
+      "sha": "3b56274fd55b2a59ab0935423860d67c9ddf90f77b5911d27c1f61921ae22fd3",
+      "size": 3540
+    },
+    "flutter.impeller": {
+      "level": 4,
+      "path": "level_04/impeller.json",
+      "sha": "4100bb3f7940d7e77beedf3255edbaf1c15e621413042e1e82978a5ff80bfda8",
+      "size": 3510
+    },
+    "flutter.ffi": {
+      "level": 4,
+      "path": "level_04/ffi.json",
+      "sha": "066b2dfe0e705e01e6cd1cd82bd9dc9e43a34670fe315895ec57023cf33c7787",
+      "size": 3835
+    },
+    "flutter.packages": {
+      "level": 4,
+      "path": "level_04/packages.json",
+      "sha": "b5e0a8577e6caef156044209105632449e9a3001e71ec32756372c9bc4540f67",
+      "size": 3594
+    },
+    "sm.provider": {
+      "level": 5,
+      "path": "level_05/provider.json",
+      "sha": "8ba1af903602dbc82412216bbf01ca269e137de5d2412aee2d533b6562805d29",
+      "size": 3391
+    },
+    "sm.bloc": {
+      "level": 5,
+      "path": "level_05/bloc.json",
+      "sha": "ca2e3cd79afdea87caf83949cbfe2ac7001147f80719a63bc07246be6ddad267",
+      "size": 3674
+    },
+    "sm.cubit": {
+      "level": 5,
+      "path": "level_05/cubit.json",
+      "sha": "a8c91a7bd3a9e9396a5c3ad6fd01ded0798a351d560b3fec3587b81d6154921e",
+      "size": 3289
+    },
+    "sm.riverpod": {
+      "level": 5,
+      "path": "level_05/riverpod.json",
+      "sha": "127694b5901fb1b98a2951840b956ef8c875f2cb186c93cade1cc62ed450c516",
+      "size": 3735
+    },
+    "sm.getx": {
+      "level": 5,
+      "path": "level_05/getx.json",
+      "sha": "7334f227fced7f623e4cac1056debd6b823b3bdbd0437c32b5fca105251334b9",
+      "size": 3469
+    },
+    "sm.redux": {
+      "level": 5,
+      "path": "level_05/redux.json",
+      "sha": "def77f64e943cab84f1b8ab87b65b0adc308026b1e19560884f0cf46c7de435b",
+      "size": 3566
+    },
+    "sm.mobx": {
+      "level": 5,
+      "path": "level_05/mobx.json",
+      "sha": "76cd2b623cc70b2a1dcb8d84989681b6a79f8c7d997761338351cbac59991cfe",
+      "size": 3568
+    },
+    "sm.comparison": {
+      "level": 5,
+      "path": "level_05/comparison.json",
+      "sha": "8c41521e5b7a2f0437914b3aa8a57afbc6232078b5419e1035a018f794189541",
+      "size": 4019
+    },
+    "arch.clean": {
+      "level": 6,
+      "path": "level_06/clean.json",
+      "sha": "7eaa1a59d5d0b066f8071e7cc2e0bec0cc68fe9bc431cc9bc9e6511dcd7a38f9",
+      "size": 4327
+    },
+    "arch.mvvm": {
+      "level": 6,
+      "path": "level_06/mvvm.json",
+      "sha": "c3a1095fd6e0fafe87874835814fc57782072cffd5cc3168698348f8cbdd97c4",
+      "size": 3733
+    },
+    "arch.mvc": {
+      "level": 6,
+      "path": "level_06/mvc.json",
+      "sha": "1c60fb5e2b37ac0649d3e6a20ef4ec120effc6a9ba5db8f8a79255e6d5fd3dfb",
+      "size": 3257
+    },
+    "arch.repository": {
+      "level": 6,
+      "path": "level_06/repository.json",
+      "sha": "fd73a033a626407407a65bbe76d35e766a5094b09caf90c6408a2e9ebd95909f",
+      "size": 3819
+    },
+    "arch.service_layer": {
+      "level": 6,
+      "path": "level_06/service_layer.json",
+      "sha": "2346a96a12ffeff04d84e442d9d3e2a34aa921764adc18121d149b63197ded17",
+      "size": 3462
+    },
+    "arch.di": {
+      "level": 6,
+      "path": "level_06/di.json",
+      "sha": "01f6a6c02eeaafb8cc4507d6bbbda1d9e22b687707a6ce41bfd740d112111dd6",
+      "size": 3782
+    },
+    "arch.feature_first": {
+      "level": 6,
+      "path": "level_06/feature_first.json",
+      "sha": "832e764ba4effa165619e617ba0a72a0ea823c185aaf515344f3dc5e46c18045",
+      "size": 3994
+    },
+    "arch.modular": {
+      "level": 6,
+      "path": "level_06/modular.json",
+      "sha": "783abefbbfb545cee91570e0c8813ce9647c77e680a4bdf0c02ef2cd931853b5",
+      "size": 3676
+    },
+    "arch.foundation": {
+      "level": 6,
+      "path": "level_06/foundation.json",
+      "sha": "b747232d63c0c60ad8705575bcc5525e4b5ee4cbf0dd11ca91b9db7d1a6fcf9d",
+      "size": 3419
+    },
+    "arch.offline_first": {
+      "level": 6,
+      "path": "level_06/offline_first.json",
+      "sha": "f0a10624da2a00844121706df57cbb1303f29beade92852c613027276e42fce5",
+      "size": 3809
+    },
+    "arch.sdui": {
+      "level": 6,
+      "path": "level_06/sdui.json",
+      "sha": "1d8acf986caf7c5aa21fc3650a83ebdeb5e93b294f1f203232b6101d4f117dfd",
+      "size": 4011
+    },
+    "arch.design_systems": {
+      "level": 6,
+      "path": "level_06/design_systems.json",
+      "sha": "e918bdcd367b6d49fe328792568fc4676282b3d11c618f7b22ce4598e2159a67",
+      "size": 4045
+    },
+    "be.rest": {
+      "level": 7,
+      "path": "level_07/rest.json",
+      "sha": "86ac7639db6c1fa28f47caade0d8e4f9aa39c8a6245763d35fbccbb77e6df829",
+      "size": 4147
+    },
+    "be.graphql": {
+      "level": 7,
+      "path": "level_07/graphql.json",
+      "sha": "668741fcae3f77b0449feaa455f596f68ca07ac3911f4b78e527af65f0d343f6",
+      "size": 3955
+    },
+    "be.grpc": {
+      "level": 7,
+      "path": "level_07/grpc.json",
+      "sha": "551decf5bfea4a389dc942600b08b92daa9473cdb340997ea0d3b3c87a26ee2c",
+      "size": 3661
+    },
+    "be.spring_boot": {
+      "level": 7,
+      "path": "level_07/spring_boot.json",
+      "sha": "c023f781a5527a5e81496671c68e9adadb44b28f765b3c1bb82ed57f4f8e9585",
+      "size": 4224
+    },
+    "be.spring_security": {
+      "level": 7,
+      "path": "level_07/spring_security.json",
+      "sha": "964b67fdd40293e494c680aa52d2a6e7765fe1b31c69d5108731f4b29a7290f1",
+      "size": 4224
+    },
+    "be.jwt": {
+      "level": 7,
+      "path": "level_07/jwt.json",
+      "sha": "878a29be953c21ede1cb7c6643a9636833fed27740fc36f1e0588f3e1f53eb57",
+      "size": 3965
+    },
+    "be.oauth2": {
+      "level": 7,
+      "path": "level_07/oauth2.json",
+      "sha": "0696cd4257a3d4fc80dc2343ec751fc9c61ffac0552f5801f5f44b0b485877c5",
+      "size": 3748
+    },
+    "be.microservices": {
+      "level": 7,
+      "path": "level_07/microservices.json",
+      "sha": "7e750927028aad49b87b46514fcb8c9569948d7dbddb43584fb3ba6374f4980b",
+      "size": 4205
+    },
+    "be.docker": {
+      "level": 7,
+      "path": "level_07/docker.json",
+      "sha": "67b629bd19519b71c816c511ad181ef3ce783a2420e7bb9021103a6cef9627ff",
+      "size": 4058
+    },
+    "be.kubernetes": {
+      "level": 7,
+      "path": "level_07/kubernetes.json",
+      "sha": "90e8b059ddd83917bcfc73e22dcbbfeacd38823d7a1bce1f85d34d21be75d9f0",
+      "size": 4465
+    },
+    "be.kafka": {
+      "level": 7,
+      "path": "level_07/kafka.json",
+      "sha": "8798b8bdd2763e61bb1f5c4744f76bccea3cd4a578380a03cbf91f29842d6c41",
+      "size": 4112
+    },
+    "be.rabbitmq": {
+      "level": 7,
+      "path": "level_07/rabbitmq.json",
+      "sha": "5474c30ca6ba9c6d1f6054506a785a1b681c6be12ddb5476950a106b4c377dec",
+      "size": 3830
+    },
+    "be.redis": {
+      "level": 7,
+      "path": "level_07/redis.json",
+      "sha": "783ce64e519d0317270326da5a96c649006206226059235d4ad750f0b2f90485",
+      "size": 4052
+    },
+    "be.api_security": {
+      "level": 7,
+      "path": "level_07/api_security.json",
+      "sha": "4024c3c8afdfac007a0d772db44253ebf332886f08ee379bd6e1263057aefef3",
+      "size": 3850
+    },
+    "db.mysql": {
+      "level": 8,
+      "path": "level_08/mysql.json",
+      "sha": "0946a6b02db3ec30ad6c2c2f1e830f4c2f1e0f11c5af68502737bbc00360c7ee",
+      "size": 3891
+    },
+    "db.postgresql": {
+      "level": 8,
+      "path": "level_08/postgresql.json",
+      "sha": "57c35378f6e9dd4c3e5cd5472fb17c5da3fd4ce6066f9829b5f6ccd49327f6d1",
+      "size": 4105
+    },
+    "db.mongodb": {
+      "level": 8,
+      "path": "level_08/mongodb.json",
+      "sha": "107f031e8c2440926a46af8629612d02702872f63ed2ce527b204b02292dca92",
+      "size": 4003
+    },
+    "db.sqlite": {
+      "level": 8,
+      "path": "level_08/sqlite.json",
+      "sha": "263a5bf765baf4cb4dcfa0e666213856816bdac6bd80006702c7c154ebdbb279",
+      "size": 3841
+    },
+    "db.hive": {
+      "level": 8,
+      "path": "level_08/hive.json",
+      "sha": "0683412839c69132f27016b8667e4b7cb48fe51afb28e2944ffeb8914052c146",
+      "size": 3650
+    },
+    "db.drift": {
+      "level": 8,
+      "path": "level_08/drift.json",
+      "sha": "985f3bb193a0378cfbaaf64b8cefd0b0b28e808e8911398c315b9607277dadd8",
+      "size": 3827
+    },
+    "db.isar": {
+      "level": 8,
+      "path": "level_08/isar.json",
+      "sha": "ea4fa3654a2c94709500c48ff22da76f23a73abe313afafefbc000c27a987b1c",
+      "size": 3638
+    },
+    "db.objectbox": {
+      "level": 8,
+      "path": "level_08/objectbox.json",
+      "sha": "d30634d9b2dc1fdd73bc6ec0df20cdfc3943d25c5a8f38f58a3d65b840b52b19",
+      "size": 3492
+    },
+    "db.realm": {
+      "level": 8,
+      "path": "level_08/realm.json",
+      "sha": "09518962503dd8d550e66a7f7bc104255a5c4f1fe6ad794c0a61be81952d060e",
+      "size": 3740
+    },
+    "db.indexing": {
+      "level": 8,
+      "path": "level_08/indexing.json",
+      "sha": "0972ea7b7570522e9eac599ebe8550b5f74d0a1e305c6773fbe5ccaac6d049a2",
+      "size": 4169
+    },
+    "db.query_optimization": {
+      "level": 8,
+      "path": "level_08/query_optimization.json",
+      "sha": "dde80a9b5fbc7af94b9e81a3cbcb631eca8c905a4edf7e1b42a5bf03d19c9723",
+      "size": 4058
+    },
+    "db.transactions": {
+      "level": 8,
+      "path": "level_08/transactions.json",
+      "sha": "06668353c527415c11b8c57598873ca6962d477b3a34e26c5636fbdbbc3f0f4f",
+      "size": 3916
+    },
+    "fb.auth": {
+      "level": 9,
+      "path": "level_09/auth.json",
+      "sha": "5f7452cd980857c9b00c27691e8a155938fb3d188dd0fb1312fddbeeae03d839",
+      "size": 4096
+    },
+    "fb.firestore": {
+      "level": 9,
+      "path": "level_09/firestore.json",
+      "sha": "4ee5b474b8eaa14465b4765af8c4a7c215d46793b2f941226007ec4154c0f4f3",
+      "size": 4025
+    },
+    "fb.realtime_db": {
+      "level": 9,
+      "path": "level_09/realtime_db.json",
+      "sha": "225e85f8b45fabe2ffd8ab7620aee0a4a3c6fb8632d158b06e454ed3bb4c4b39",
+      "size": 3863
+    },
+    "fb.storage": {
+      "level": 9,
+      "path": "level_09/storage.json",
+      "sha": "0baff4caf2c31e6adc127a9d14c0a5c82170513ef149848348cbbf30e4cee9ee",
+      "size": 3804
+    },
+    "fb.crashlytics": {
+      "level": 9,
+      "path": "level_09/crashlytics.json",
+      "sha": "e671d3e1175d5c0c8c6adff2964c0e36bbd6ef6526e37971c18b52a01b754ffb",
+      "size": 4013
+    },
+    "fb.analytics": {
+      "level": 9,
+      "path": "level_09/analytics.json",
+      "sha": "9756c602335fa1ddd108015321e8c1fcde496298da975062630f9ebaeeeb4ef1",
+      "size": 3889
+    },
+    "fb.remote_config": {
+      "level": 9,
+      "path": "level_09/remote_config.json",
+      "sha": "972e33a7f47c801dc5b76c1d0681393ceede60d89be3b281ffeffedb44b830ca",
+      "size": 3863
+    },
+    "fb.fcm": {
+      "level": 9,
+      "path": "level_09/fcm.json",
+      "sha": "1b602f8e406de959b62991be968fb42c5684391569e2f87d0c8897d57666213c",
+      "size": 3966
+    },
+    "fb.app_distribution": {
+      "level": 9,
+      "path": "level_09/app_distribution.json",
+      "sha": "535e9ef69639b735e5f4dde8d700c0dccefe4b32f8a472ea163b54fdd42e4fd4",
+      "size": 3657
+    },
+    "fb.performance": {
+      "level": 9,
+      "path": "level_09/performance.json",
+      "sha": "488aa632195f38619f71dda774ca4248fee876856921d0e023b7c30db267e2f7",
+      "size": 3941
+    },
+    "plg.dio": {
+      "level": 10,
+      "path": "level_10/dio.json",
+      "sha": "373382584af2bb7c1c9f3f546227318c3e3690d044018782a6f69f7050215091",
+      "size": 3705
+    },
+    "plg.http": {
+      "level": 10,
+      "path": "level_10/http.json",
+      "sha": "f88a95c6d613f3d1335cb39e1e5091ec0dcd84498912197dd63f59d9bc9cb5b4",
+      "size": 3289
+    },
+    "plg.retrofit": {
+      "level": 10,
+      "path": "level_10/retrofit.json",
+      "sha": "9d4fb16dea90d9b39793537dfb660b478edc98443c0dcc17726a72569098f6cd",
+      "size": 3568
+    },
+    "plg.provider": {
+      "level": 10,
+      "path": "level_10/provider.json",
+      "sha": "d7a17183d7e2e3d48668051244eccfbfd6cd4dcafab8f3dcad617130cca81bf8",
+      "size": 3395
+    },
+    "plg.flutter_bloc": {
+      "level": 10,
+      "path": "level_10/flutter_bloc.json",
+      "sha": "cf2f167f58de77b1ff67dbde9bdb9256bc8ebe3f456ea0dfcdaf6b3230fa9ec3",
+      "size": 3484
+    },
+    "plg.riverpod": {
+      "level": 10,
+      "path": "level_10/riverpod.json",
+      "sha": "eb73bcd2a0ce03344254638283aca19828a9e1315601b22c2a464b80344462f6",
+      "size": 3538
+    },
+    "plg.hive": {
+      "level": 10,
+      "path": "level_10/hive.json",
+      "sha": "aeec762c6c5108c465ab0e789b7cef8538f3676e0777a51ace830b87aea7c56e",
+      "size": 3160
+    },
+    "plg.secure_storage": {
+      "level": 10,
+      "path": "level_10/secure_storage.json",
+      "sha": "b22887761782170246eb191a85464cb5cb4b492c53a0f172088fc4686e3c87e2",
+      "size": 3565
+    },
+    "plg.shared_preferences": {
+      "level": 10,
+      "path": "level_10/shared_preferences.json",
+      "sha": "eee54dadb3576b66107a658e1edeee4ef0859528ec3bb1120d4dcc32dcf581d1",
+      "size": 3117
+    },
+    "plg.drift": {
+      "level": 10,
+      "path": "level_10/drift.json",
+      "sha": "35ad0d62ff063bc904646dd86a5ad44c9ea7b4828cd147bd8a2c846f95e6a3c7",
+      "size": 3230
+    },
+    "plg.isar": {
+      "level": 10,
+      "path": "level_10/isar.json",
+      "sha": "3d0766f8ddb2398e228720a56d9e831f222f2fd4d80c1893fa2e7471ddb7e80b",
+      "size": 3201
+    },
+    "plg.firebase": {
+      "level": 10,
+      "path": "level_10/firebase.json",
+      "sha": "338da987aee00521b04b4beac4eb02ff626f471df962b8dfa7fd0c2cf2b1a317",
+      "size": 3516
+    },
+    "plg.google_maps": {
+      "level": 10,
+      "path": "level_10/google_maps.json",
+      "sha": "f83e132cc05485aeede433da657043bf9b9519f6de83bdee06e2e4e9881cb1d6",
+      "size": 3480
+    },
+    "plg.geolocator": {
+      "level": 10,
+      "path": "level_10/geolocator.json",
+      "sha": "88b7810f0a8f59950e630b0b26f58789373af66c61142fab7c78aed28b1de3e8",
+      "size": 3632
+    },
+    "plg.camera": {
+      "level": 10,
+      "path": "level_10/camera.json",
+      "sha": "df0fb47ca60c6016a8f368a3ea6e358c7cef74e72f83f09de27bdee1a2219955",
+      "size": 3541
+    },
+    "plg.image_picker": {
+      "level": 10,
+      "path": "level_10/image_picker.json",
+      "sha": "ddc57932e9cde667b89e6063a1fb1ce1f146f8c5576e157521379c0120764397",
+      "size": 3232
+    },
+    "plg.permission_handler": {
+      "level": 10,
+      "path": "level_10/permission_handler.json",
+      "sha": "74584f4196cea22cfaa733e4e825825d8a79ba087c43638eb444adb4c33d603d",
+      "size": 3486
+    },
+    "plg.cached_network_image": {
+      "level": 10,
+      "path": "level_10/cached_network_image.json",
+      "sha": "d03134d600871172f996a0d2f529ced413648221920a816f681bb6c289c396b2",
+      "size": 3479
+    },
+    "plg.webview": {
+      "level": 10,
+      "path": "level_10/webview.json",
+      "sha": "a05dffb04b1d52e7adfe01875ab2b1c20c0ccd810d1e04718042dcd230e9c577",
+      "size": 3700
+    },
+    "plg.video_player": {
+      "level": 10,
+      "path": "level_10/video_player.json",
+      "sha": "0527c86516180013f4830e83c78a74029bc0bd342eb9d26d6e324fbd2e28bddd",
+      "size": 3259
+    },
+    "plg.local_auth": {
+      "level": 10,
+      "path": "level_10/local_auth.json",
+      "sha": "dacb6af783344f9e061cb2cc135116b22d6f6a239701d1e9e056b9ca7d8cc3e5",
+      "size": 3298
+    },
+    "plg.local_notifications": {
+      "level": 10,
+      "path": "level_10/local_notifications.json",
+      "sha": "5f30140535376b2a70a088ad2a45a7df47878f20e7706cf6378c9761225693d7",
+      "size": 3889
+    },
+    "plg.workmanager": {
+      "level": 10,
+      "path": "level_10/workmanager.json",
+      "sha": "1f3624a4291e797d27e8cae2fa172f873b99fa0be398be263e200f29e40002e9",
+      "size": 3582
+    },
+    "plg.file_picker": {
+      "level": 10,
+      "path": "level_10/file_picker.json",
+      "sha": "23fab427592746939bc3e103ab501578ab83ae2bba800d8546979625adf125cc",
+      "size": 3200
+    },
+    "plg.mobile_scanner": {
+      "level": 10,
+      "path": "level_10/mobile_scanner.json",
+      "sha": "66fd8b4cfaaf128cee0eeba6245324268adae7921a40316c7dc57871e891d664",
+      "size": 3244
+    },
+    "plg.ml_kit": {
+      "level": 10,
+      "path": "level_10/ml_kit.json",
+      "sha": "e61012ad2f36027ae98099011188b7d1447571c1752c1fc5ce749a642031b682",
+      "size": 3399
+    },
+    "plg.scandit": {
+      "level": 10,
+      "path": "level_10/scandit.json",
+      "sha": "5ba2c073de12323d00ce14299c1bbd79614977ce8f64a1a2d08bef54e59b9d3b",
+      "size": 3738
+    },
+    "gs1.gtin": {
+      "level": 11,
+      "path": "level_11/gtin.json",
+      "sha": "d552fc7378b70f94b682af481d9076b10cc69f66ec35d77d8db0c60a9df0c472",
+      "size": 4179
+    },
+    "gs1.gln": {
+      "level": 11,
+      "path": "level_11/gln.json",
+      "sha": "622ef63d79cb0ff270a422e8e0097e12d8f2822791f2f7bdb65677f17bac6137",
+      "size": 3736
+    },
+    "gs1.gcp": {
+      "level": 11,
+      "path": "level_11/gcp.json",
+      "sha": "ea76a19e8cdf36411411613d7c26f48a5e263d8cef9ef2e1c2d1dca60b19c84b",
+      "size": 3687
+    },
+    "gs1.sscc": {
+      "level": 11,
+      "path": "level_11/sscc.json",
+      "sha": "70e336eb765c74895cea0ada74ca99181b8a17a8d68f960efde2665f2034ae71",
+      "size": 3292
+    },
+    "gs1.digital_link": {
+      "level": 11,
+      "path": "level_11/digital_link.json",
+      "sha": "fd57a496789d1c9a751cc069c581f25c78e4d20ebbad4c5e73a319afa9cac55c",
+      "size": 4130
+    },
+    "gs1.datamatrix": {
+      "level": 11,
+      "path": "level_11/datamatrix.json",
+      "sha": "61f1e364be0e2d52900ddb485897eb06b6f4521781ea092d7a011b3e7f2a93e1",
+      "size": 4125
+    },
+    "gs1.qr": {
+      "level": 11,
+      "path": "level_11/qr.json",
+      "sha": "262b0b4567da53c334cd8aa18d77d99f3549985454bcb6ef8d824594f17bb338",
+      "size": 3606
+    },
+    "gs1.standards": {
+      "level": 11,
+      "path": "level_11/standards.json",
+      "sha": "fa99f37940fcc86df441ad02b6fab6d336a7ac9d91d4048799e9ccfa007dd1f6",
+      "size": 3851
+    },
+    "gs1.authentication": {
+      "level": 11,
+      "path": "level_11/authentication.json",
+      "sha": "f055613ea5f8c0cd90006d2747f5e4ee336a380e6df56b64131766a19b392169",
+      "size": 4282
+    },
+    "gs1.traceability": {
+      "level": 11,
+      "path": "level_11/traceability.json",
+      "sha": "10494a57b8ae002ec9e54419ac1d583afee19afd705f75cb79b76e7fa360ef96",
+      "size": 4010
+    },
+    "gs1.epcis": {
+      "level": 11,
+      "path": "level_11/epcis.json",
+      "sha": "4a499e84edb19f22da62e977913161f1bafa9d570086a4bc728fc169a00d8195",
+      "size": 4359
+    },
+    "gs1.serialization": {
+      "level": 11,
+      "path": "level_11/serialization.json",
+      "sha": "42dad372e0c5c7e7a689b5629b2bfeca56ce827c18b31496558591e4a6302193",
+      "size": 3879
+    },
+    "devops.git": {
+      "level": 12,
+      "path": "level_12/git.json",
+      "sha": "9386522abecc6532ca21c399a0bc058b11538435798d19506fb4ed2268671397",
+      "size": 4157
+    },
+    "devops.git_flow": {
+      "level": 12,
+      "path": "level_12/git_flow.json",
+      "sha": "3f5042d1929f86275e49b756010b6cce5c9ab770d3339c99a234742289de0357",
+      "size": 4243
+    },
+    "devops.cicd": {
+      "level": 12,
+      "path": "level_12/cicd.json",
+      "sha": "aaa20ce3e2dfbd74f2eb91a628468934c33ce75f13976e429162ba3e94687628",
+      "size": 4129
+    },
+    "devops.github_actions": {
+      "level": 12,
+      "path": "level_12/github_actions.json",
+      "sha": "826dae52282ebf35d935a0fe3123425f0be73b738b6c0944f16b0b5534d88b3c",
+      "size": 4171
+    },
+    "devops.codemagic": {
+      "level": 12,
+      "path": "level_12/codemagic.json",
+      "sha": "23f40426cd2114c08ba8bce9b83e7a0cace6baf2584f6ecf955da444efbff8e7",
+      "size": 3774
+    },
+    "devops.fastlane": {
+      "level": 12,
+      "path": "level_12/fastlane.json",
+      "sha": "7dc0703ef6dff35a62e89045d3ef5f21a34ce8c69aa34571275fa5ccae7eda4d",
+      "size": 4047
+    },
+    "devops.docker": {
+      "level": 12,
+      "path": "level_12/docker.json",
+      "sha": "446ffcb1c775114c22b2a9e87ad22da14192bd4138ffda6e5e02e08b3f9abbe7",
+      "size": 3964
+    },
+    "devops.kubernetes": {
+      "level": 12,
+      "path": "level_12/kubernetes.json",
+      "sha": "d9f85810f25a4fa4d1ba804309b817b93ef44b0a2fc377028b541c392a3dac52",
+      "size": 4303
+    },
+    "devops.app_distribution": {
+      "level": 12,
+      "path": "level_12/app_distribution.json",
+      "sha": "23c6e69e053133b81287a47da3befea9d7d0af07847297bb9cdbfe9b33216180",
+      "size": 2937
+    },
+    "devops.play_console": {
+      "level": 12,
+      "path": "level_12/play_console.json",
+      "sha": "5492e2ab91f4b4217dc57c1cc96e1a48ca84622fee5a1020ea55358bf2a33ad1",
+      "size": 3698
+    },
+    "devops.app_store_connect": {
+      "level": 12,
+      "path": "level_12/app_store_connect.json",
+      "sha": "4ecfd01dfbf29b72ea7194530220b3a9a393b608494fe9cac9a76a15d0c4d570",
+      "size": 3771
+    },
+    "devops.testflight": {
+      "level": 12,
+      "path": "level_12/testflight.json",
+      "sha": "faf91009f4bfa74626fdc310b6ea42c4943b66a7198082f4ba70a73a78aa7a85",
+      "size": 3482
+    }
+  }
+}
