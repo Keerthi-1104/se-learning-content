@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "fd8f8971165f",
+  "contentVersion": "546af10dca6a",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -532,26 +532,26 @@
     "be.rest": {
       "level": 7,
       "path": "level_07/rest.json",
-      "sha": "86ac7639db6c1fa28f47caade0d8e4f9aa39c8a6245763d35fbccbb77e6df829",
-      "size": 4147
+      "sha": "cc470942f4f927dc70694e267ad613c6cc106515d79583e93808f445da59d83d",
+      "size": 23663
     },
     "be.graphql": {
       "level": 7,
       "path": "level_07/graphql.json",
-      "sha": "668741fcae3f77b0449feaa455f596f68ca07ac3911f4b78e527af65f0d343f6",
-      "size": 3955
+      "sha": "dbba6fa3484e6742887bc138ece084da4c385c4c0b14c7eb44602348f148b9b7",
+      "size": 22131
     },
     "be.grpc": {
       "level": 7,
       "path": "level_07/grpc.json",
-      "sha": "551decf5bfea4a389dc942600b08b92daa9473cdb340997ea0d3b3c87a26ee2c",
-      "size": 3661
+      "sha": "b87b62f9f990fd192789a8d3062f7215eb3762dcc1b33ecafe8a95118551226f",
+      "size": 21657
     },
     "be.spring_boot": {
       "level": 7,
       "path": "level_07/spring_boot.json",
-      "sha": "c023f781a5527a5e81496671c68e9adadb44b28f765b3c1bb82ed57f4f8e9585",
-      "size": 4224
+      "sha": "71c5af43e4854586fe88682d5bd1d2bd2bd72f7213a6f0c620a92d8ee0dafe9d",
+      "size": 24001
     },
     "be.spring_security": {
       "level": 7,
