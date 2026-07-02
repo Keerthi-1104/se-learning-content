@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "31b19815a2c3",
+  "contentVersion": "ab6739cd6805",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -412,26 +412,26 @@
     "sm.provider": {
       "level": 5,
       "path": "level_05/provider.json",
-      "sha": "8ba1af903602dbc82412216bbf01ca269e137de5d2412aee2d533b6562805d29",
-      "size": 3391
+      "sha": "cfbd71327d9f32d2a9f7cd862d46150e59b2ca892bf83bcc29f290fca1a8a600",
+      "size": 19318
     },
     "sm.bloc": {
       "level": 5,
       "path": "level_05/bloc.json",
-      "sha": "ca2e3cd79afdea87caf83949cbfe2ac7001147f80719a63bc07246be6ddad267",
-      "size": 3674
+      "sha": "4db17ebec0a13641f77a093002672d1ff201879b695043a997cb747f77871526",
+      "size": 21475
     },
     "sm.cubit": {
       "level": 5,
       "path": "level_05/cubit.json",
-      "sha": "a8c91a7bd3a9e9396a5c3ad6fd01ded0798a351d560b3fec3587b81d6154921e",
-      "size": 3289
+      "sha": "fe627d504159a17e19ad3f9102c4bda2b2fcac967f57c7b6b7e6200313ae73d7",
+      "size": 17772
     },
     "sm.riverpod": {
       "level": 5,
       "path": "level_05/riverpod.json",
-      "sha": "127694b5901fb1b98a2951840b956ef8c875f2cb186c93cade1cc62ed450c516",
-      "size": 3735
+      "sha": "4cb9f7fc9986f1c7dd0a1802d8e6e33e19273b309c50b8c94894992984e5f308",
+      "size": 21927
     },
     "sm.getx": {
       "level": 5,
