@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "9e1f73750487",
+  "contentVersion": "42ca420a9b86",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -484,26 +484,26 @@
     "arch.service_layer": {
       "level": 6,
       "path": "level_06/service_layer.json",
-      "sha": "2346a96a12ffeff04d84e442d9d3e2a34aa921764adc18121d149b63197ded17",
-      "size": 3462
+      "sha": "2df9584420fe8c703f631b146b109f4c7bebc99697d0ff0bc570d13d50bfacbc",
+      "size": 20804
     },
     "arch.di": {
       "level": 6,
       "path": "level_06/di.json",
-      "sha": "01f6a6c02eeaafb8cc4507d6bbbda1d9e22b687707a6ce41bfd740d112111dd6",
-      "size": 3782
+      "sha": "62cd28bcfc7e6707c2a2479e00ccf99b83b759919a03ab75abcac33ba7cc437d",
+      "size": 22032
     },
     "arch.feature_first": {
       "level": 6,
       "path": "level_06/feature_first.json",
-      "sha": "832e764ba4effa165619e617ba0a72a0ea823c185aaf515344f3dc5e46c18045",
-      "size": 3994
+      "sha": "d159dcc7c536a08ca49c8d4d074af02a805695004c1c562d23de4acfb8838d7e",
+      "size": 23634
     },
     "arch.modular": {
       "level": 6,
       "path": "level_06/modular.json",
-      "sha": "783abefbbfb545cee91570e0c8813ce9647c77e680a4bdf0c02ef2cd931853b5",
-      "size": 3676
+      "sha": "8644479b4f1dd8c48d47a9648d8a4e19d6f6f28ddf231cacf0f39575f98fa2f3",
+      "size": 20548
     },
     "arch.foundation": {
       "level": 6,
