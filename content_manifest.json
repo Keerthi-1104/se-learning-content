@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "4df95cf04ffe",
+  "contentVersion": "9e1f73750487",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -460,26 +460,26 @@
     "arch.clean": {
       "level": 6,
       "path": "level_06/clean.json",
-      "sha": "7eaa1a59d5d0b066f8071e7cc2e0bec0cc68fe9bc431cc9bc9e6511dcd7a38f9",
-      "size": 4327
+      "sha": "867012f13f22ef6eb02a4e8c0da707a93b0ad560e5a5aeff1ebf57b88974515e",
+      "size": 25667
     },
     "arch.mvvm": {
       "level": 6,
       "path": "level_06/mvvm.json",
-      "sha": "c3a1095fd6e0fafe87874835814fc57782072cffd5cc3168698348f8cbdd97c4",
-      "size": 3733
+      "sha": "88c34fd87c85651358f23667626aa1001e762b9a728829c698dd13034ffb389f",
+      "size": 21623
     },
     "arch.mvc": {
       "level": 6,
       "path": "level_06/mvc.json",
-      "sha": "1c60fb5e2b37ac0649d3e6a20ef4ec120effc6a9ba5db8f8a79255e6d5fd3dfb",
-      "size": 3257
+      "sha": "2f46f9a0897b7816dbc4b2266c2826fc10cbeb59aca37b97b10f35b25a3fc554",
+      "size": 20855
     },
     "arch.repository": {
       "level": 6,
       "path": "level_06/repository.json",
-      "sha": "fd73a033a626407407a65bbe76d35e766a5094b09caf90c6408a2e9ebd95909f",
-      "size": 3819
+      "sha": "0d7bd42d6ff1a5e512979b6fe4e8115e47e5d81f0c5b26f36df36c1e9fae7eb8",
+      "size": 21503
     },
     "arch.service_layer": {
       "level": 6,
