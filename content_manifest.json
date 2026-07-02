@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "ab6739cd6805",
+  "contentVersion": "4df95cf04ffe",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -436,26 +436,26 @@
     "sm.getx": {
       "level": 5,
       "path": "level_05/getx.json",
-      "sha": "7334f227fced7f623e4cac1056debd6b823b3bdbd0437c32b5fca105251334b9",
-      "size": 3469
+      "sha": "68723d3563e9675ec4b0f919747cb56979cf0fe5cfb26c943859df063656d2d9",
+      "size": 17064
     },
     "sm.redux": {
       "level": 5,
       "path": "level_05/redux.json",
-      "sha": "def77f64e943cab84f1b8ab87b65b0adc308026b1e19560884f0cf46c7de435b",
-      "size": 3566
+      "sha": "abae786ca421d9abe4c4c16ecfce5bf944baf0624ed9e88b4defc470185e0bbe",
+      "size": 17994
     },
     "sm.mobx": {
       "level": 5,
       "path": "level_05/mobx.json",
-      "sha": "76cd2b623cc70b2a1dcb8d84989681b6a79f8c7d997761338351cbac59991cfe",
-      "size": 3568
+      "sha": "215d7643aa1d148c12a9af9a15edce04c64c5e9596da1cea1769c073c2e1d1f2",
+      "size": 18264
     },
     "sm.comparison": {
       "level": 5,
       "path": "level_05/comparison.json",
-      "sha": "8c41521e5b7a2f0437914b3aa8a57afbc6232078b5419e1035a018f794189541",
-      "size": 4019
+      "sha": "b046b26e9e68e2ebcd295c0fb308874c0177df0436aee25f245a0a6c5055ccb6",
+      "size": 23786
     },
     "arch.clean": {
       "level": 6,
