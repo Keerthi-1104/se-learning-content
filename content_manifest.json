@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "546af10dca6a",
+  "contentVersion": "569bf6cda0d2",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -556,20 +556,20 @@
     "be.spring_security": {
       "level": 7,
       "path": "level_07/spring_security.json",
-      "sha": "964b67fdd40293e494c680aa52d2a6e7765fe1b31c69d5108731f4b29a7290f1",
-      "size": 4224
+      "sha": "045a0d9f574a2f41238655d2f31cb82d923ea04ce2a93b77a73a3f95c7c582b9",
+      "size": 25191
     },
     "be.jwt": {
       "level": 7,
       "path": "level_07/jwt.json",
-      "sha": "878a29be953c21ede1cb7c6643a9636833fed27740fc36f1e0588f3e1f53eb57",
-      "size": 3965
+      "sha": "f8f8aad4061f211dbe4357014f7e4620b5d4eebef19e43b0f8925b6d64070625",
+      "size": 24674
     },
     "be.oauth2": {
       "level": 7,
       "path": "level_07/oauth2.json",
-      "sha": "0696cd4257a3d4fc80dc2343ec751fc9c61ffac0552f5801f5f44b0b485877c5",
-      "size": 3748
+      "sha": "204a6c041a5d831878fefcb080ab3cbb51e0f40715e7ff635bc351535e2be21e",
+      "size": 25249
     },
     "be.microservices": {
       "level": 7,
@@ -610,8 +610,8 @@
     "be.api_security": {
       "level": 7,
       "path": "level_07/api_security.json",
-      "sha": "4024c3c8afdfac007a0d772db44253ebf332886f08ee379bd6e1263057aefef3",
-      "size": 3850
+      "sha": "271e03df16069ad1e92530054caccca7f649efea413d89e242d922ff49c838e2",
+      "size": 25563
     },
     "db.mysql": {
       "level": 8,
