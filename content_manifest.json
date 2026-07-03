@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "647382eed685",
+  "contentVersion": "ac6ec4824dcb",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -616,26 +616,26 @@
     "db.mysql": {
       "level": 8,
       "path": "level_08/mysql.json",
-      "sha": "0946a6b02db3ec30ad6c2c2f1e830f4c2f1e0f11c5af68502737bbc00360c7ee",
-      "size": 3891
+      "sha": "03e18f1b5f75cafd4b52bdaae58a0301d5f0d158527476d65305c1a4737655cd",
+      "size": 24872
     },
     "db.postgresql": {
       "level": 8,
       "path": "level_08/postgresql.json",
-      "sha": "57c35378f6e9dd4c3e5cd5472fb17c5da3fd4ce6066f9829b5f6ccd49327f6d1",
-      "size": 4105
+      "sha": "198a3a41194e22bda2ccc906b94ee6a48049b1addc437ec048aac434669c7f5a",
+      "size": 24595
     },
     "db.mongodb": {
       "level": 8,
       "path": "level_08/mongodb.json",
-      "sha": "107f031e8c2440926a46af8629612d02702872f63ed2ce527b204b02292dca92",
-      "size": 4003
+      "sha": "243c837d69df7fcede186f22a1d1327466ada49d21ab6b9909cdf85d7ed641b6",
+      "size": 26212
     },
     "db.sqlite": {
       "level": 8,
       "path": "level_08/sqlite.json",
-      "sha": "263a5bf765baf4cb4dcfa0e666213856816bdac6bd80006702c7c154ebdbb279",
-      "size": 3841
+      "sha": "3b8907b5b93e5134ef68a63b08487293539a423267ba2301dbc3315317809074",
+      "size": 22976
     },
     "db.hive": {
       "level": 8,
