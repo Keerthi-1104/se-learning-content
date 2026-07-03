@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "9347057ef18d",
+  "contentVersion": "647382eed685",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -592,14 +592,14 @@
     "be.kafka": {
       "level": 7,
       "path": "level_07/kafka.json",
-      "sha": "8798b8bdd2763e61bb1f5c4744f76bccea3cd4a578380a03cbf91f29842d6c41",
-      "size": 4112
+      "sha": "daff1828a34343ec3634c57137b53dcfde19c869fe20d81a19cccfe8d1e726f5",
+      "size": 25891
     },
     "be.rabbitmq": {
       "level": 7,
       "path": "level_07/rabbitmq.json",
-      "sha": "5474c30ca6ba9c6d1f6054506a785a1b681c6be12ddb5476950a106b4c377dec",
-      "size": 3830
+      "sha": "5656dd38d4a44df71ddc8845726c684d6ff7cfa13c62e6796590752512e73ce7",
+      "size": 22450
     },
     "be.redis": {
       "level": 7,
