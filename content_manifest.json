@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "ac6ec4824dcb",
+  "contentVersion": "d70862ec2857",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -640,26 +640,26 @@
     "db.hive": {
       "level": 8,
       "path": "level_08/hive.json",
-      "sha": "0683412839c69132f27016b8667e4b7cb48fe51afb28e2944ffeb8914052c146",
-      "size": 3650
+      "sha": "4961c59affb0008c5b530eaea4fb3527490f4511dceab1dbc5f5fbfa2b51460a",
+      "size": 20292
     },
     "db.drift": {
       "level": 8,
       "path": "level_08/drift.json",
-      "sha": "985f3bb193a0378cfbaaf64b8cefd0b0b28e808e8911398c315b9607277dadd8",
-      "size": 3827
+      "sha": "8a675fe7ebf9c534474c251566b82bccba9f6c5adc52047fe3d6501c38f013d9",
+      "size": 25098
     },
     "db.isar": {
       "level": 8,
       "path": "level_08/isar.json",
-      "sha": "ea4fa3654a2c94709500c48ff22da76f23a73abe313afafefbc000c27a987b1c",
-      "size": 3638
+      "sha": "52c37fbe64fda06cdc476a408522177f07de71eb8c4c3de1efd31ff16e05ee5d",
+      "size": 16081
     },
     "db.objectbox": {
       "level": 8,
       "path": "level_08/objectbox.json",
-      "sha": "d30634d9b2dc1fdd73bc6ec0df20cdfc3943d25c5a8f38f58a3d65b840b52b19",
-      "size": 3492
+      "sha": "6db626aa461a1a6793e3a37b05fc878e9dee9ca7ddacc7a791b6804bc2a2f620",
+      "size": 16524
     },
     "db.realm": {
       "level": 8,
