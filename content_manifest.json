@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "contentVersion": "569bf6cda0d2",
+  "contentVersion": "9347057ef18d",
   "roadmap": {
     "path": "roadmap.json",
     "sha": "5c86373bca10ce9ba9948bf8ccd86e42f9c45a2363ff28316c8dcfd3220bc813",
@@ -574,20 +574,20 @@
     "be.microservices": {
       "level": 7,
       "path": "level_07/microservices.json",
-      "sha": "7e750927028aad49b87b46514fcb8c9569948d7dbddb43584fb3ba6374f4980b",
-      "size": 4205
+      "sha": "469a4ac0262128cd62a63ba8da0fc2e04959d28232b52ed93bb6a1f398ce47f5",
+      "size": 26329
     },
     "be.docker": {
       "level": 7,
       "path": "level_07/docker.json",
-      "sha": "67b629bd19519b71c816c511ad181ef3ce783a2420e7bb9021103a6cef9627ff",
-      "size": 4058
+      "sha": "b563f3ee55133b9dfc6d7bdf9313abb9fe28c8b39c0fd2d54d2f8f1f4cdfe25a",
+      "size": 23142
     },
     "be.kubernetes": {
       "level": 7,
       "path": "level_07/kubernetes.json",
-      "sha": "90e8b059ddd83917bcfc73e22dcbbfeacd38823d7a1bce1f85d34d21be75d9f0",
-      "size": 4465
+      "sha": "ebaa5e1fc4021459805dc87d75988e0e089d0932a298b9176f66e185981c7ce2",
+      "size": 25804
     },
     "be.kafka": {
       "level": 7,
@@ -604,8 +604,8 @@
     "be.redis": {
       "level": 7,
       "path": "level_07/redis.json",
-      "sha": "783ce64e519d0317270326da5a96c649006206226059235d4ad750f0b2f90485",
-      "size": 4052
+      "sha": "87ce8dd0aa95e01a53445e350c3e9f4c5e228099a7b4978e6ff34c2dfab2a299",
+      "size": 24379
     },
     "be.api_security": {
       "level": 7,
